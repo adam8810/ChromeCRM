@@ -1,0 +1,18 @@
+{
+  	"name": "__MSG_appName__",
+  	"description": "__MSG_appDescription__",
+  	"version": "1",
+  	"manifest_version": 2,
+  	"default_locale": "en",
+  	"permissions": [
+  		"alarms",
+  		"app.runtime",
+  		"app.window",
+  		"clipboardRead",
+  		"clipboardWrite",
+  		"identity",
+  		"storage",
+  		"http://*/*",
+  		"https://*/*"
+  	]
+  }
